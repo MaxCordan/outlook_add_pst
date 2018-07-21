@@ -1,2 +1,2 @@
 # outlook_add_pst
-Add PST files that exist in a text file
+To use this script you need to create text file, where you will set PST files that will add.
